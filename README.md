@@ -1,13 +1,6 @@
-Claro! Aqui está uma versão mais enxuta e organizada:
-
-The Complete Full-Stack Web Development Bootcamp 🚀
-
 Este repositório contém anotações, projetos e desafios realizados ao longo do curso The Complete Full-Stack Web Development Bootcamp na Udemy.
 
-	Descrição: Aprenda a desenvolver aplicações completas com tecnologias modernas como HTML, CSS, JavaScript, Node.js, React, PostgreSQL, Web3 e DApps.
-
 📚 Conteúdo Abordado
-
 Frontend Development
 	•	Estruturação de páginas com HTML
 	•	Estilização avançada com CSS, incluindo Flexbox, Grid e Bootstrap
@@ -25,12 +18,6 @@ Desenvolvimento Avançado
 	•	Desenvolvimento de aplicações descentralizadas (DApps)
 	•	Criação de NFTs e integração com blockchain
 
-Projetos Práticos
-	•	Site pessoal
-	•	Jogos interativos (The Dicee Game e The Simon Game)
-	•	Aplicação de blog com CRUD completo
-	•	Desenvolvimento de DApps financeiros
-
 🛠️ Tecnologias Abordadas
 	•	Frontend: HTML, CSS, JavaScript, React
 	•	Backend: Node.js, Express
@@ -41,9 +28,3 @@ Projetos Práticos
 	•	Concluir módulos avançados com React e PostgreSQL
 	•	Integrar segurança com autenticação
 	•	Finalizar desenvolvimento com Web3 e DApps
-
-📢 Contribuições
-
-Sugestões e melhorias são bem-vindas!
-
-Ficou mais claro assim?
