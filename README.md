@@ -24,7 +24,3 @@ Desenvolvimento Avançado
 	•	Banco de Dados: PostgreSQL
 	•	Blockchain: Web3, DApps, NFT
 
-🌟 Próximos Passos
-	•	Concluir módulos avançados com React e PostgreSQL
-	•	Integrar segurança com autenticação
-	•	Finalizar desenvolvimento com Web3 e DApps
