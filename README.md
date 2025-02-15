@@ -1,4 +1,4 @@
-Este repositório contém anotações, projetos e desafios realizados ao longo do curso The Complete Full-Stack Web Development Bootcamp na Udemy.
+anotações, projetos e desafios realizados ao longo do curso The Complete Full-Stack Web Development Bootcamp na Udemy.
 
 📚 Conteúdo Abordado
 Frontend Development
