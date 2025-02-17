@@ -1,26 +1,26 @@
-anotações, projetos e desafios realizados ao longo do curso The Complete Full-Stack Web Development Bootcamp na Udemy.
+Notes, projects, and challenges completed throughout The Complete Full-Stack Web Development Bootcamp on Udemy.
 
-📚 Conteúdo Abordado
+📚 Covered Topics
+
 Frontend Development
-	•	Estruturação de páginas com HTML
-	•	Estilização avançada com CSS, incluindo Flexbox, Grid e Bootstrap
-	•	Criação de interfaces dinâmicas com JavaScript (ES6) e manipulação do DOM
-	•	Uso de bibliotecas modernas como React
+	•	Structuring pages with HTML
+	•	Advanced styling with CSS, including Flexbox, Grid, and Bootstrap
+	•	Creating dynamic interfaces with JavaScript (ES6) and DOM manipulation
+	•	Using modern libraries like React
 
 Backend Development
-	•	Configuração de servidores com Node.js e Express
-	•	Integração com bancos de dados PostgreSQL
-	•	Desenvolvimento de APIs RESTful
+	•	Setting up servers with Node.js and Express
+	•	Integrating with PostgreSQL databases
+	•	Developing RESTful APIs
 
-Desenvolvimento Avançado
-	•	Controle de versão com Git e GitHub
-	•	Segurança e autenticação de usuários
-	•	Desenvolvimento de aplicações descentralizadas (DApps)
-	•	Criação de NFTs e integração com blockchain
+Advanced Development
+	•	Version control with Git and GitHub
+	•	Security and user authentication
+	•	Developing decentralized applications (DApps)
+	•	Creating NFTs and integrating with blockchain
 
-🛠️ Tecnologias Abordadas
+🛠️ Technologies Used
 	•	Frontend: HTML, CSS, JavaScript, React
 	•	Backend: Node.js, Express
-	•	Banco de Dados: PostgreSQL
+	•	Database: PostgreSQL
 	•	Blockchain: Web3, DApps, NFT
-
