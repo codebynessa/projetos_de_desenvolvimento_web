@@ -1,0 +1,9 @@
+h1 {
+    color: blue; /* Muda a cor do título para azul */
+}
+img {
+    border: 2px solid black; /* Adiciona uma borda preta às imagens */
+}
+img[alt] {
+    color: red; /* Muda a cor do texto alternativo das imagens para vermelho */
+}
